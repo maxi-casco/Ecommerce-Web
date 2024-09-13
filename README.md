@@ -1,9 +1,9 @@
 <div align="center">
 
-  <h3 align="center">A Modern Next.js Portfolio</h3>
+  <h3 align="center">A a High Ecommerce</h3>
 
    <div align="center">
-     This is the Code of a High Ecommerce <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>EssenceShop</b></a>
+     This is the Code of a High Ecommerce <a href="https://ecommerce-web-mc.web.app/" target="_blank"><b>EssenceShop</b></a>
     </div>
 </div>
 
