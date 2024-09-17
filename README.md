@@ -7,7 +7,7 @@
     </div>
 </div>
 
-## ✨ The code is created by
+## ✨ The Code is created by
 
 
 This repository is created for those people who like to sell products and have a brand in mind, to sell many products with good efficiency.
